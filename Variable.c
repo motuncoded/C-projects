@@ -24,6 +24,11 @@ int main() {
     char character = 'z';
     printf("\nCharacter: %c", character);// z
     printf("\nCharacter: %d", character);// 122
+    //sizeof operator
+    int age2;
+    double number3;
+    printf("int size: %zu", sizeof(age2));// 4
+    printf("\ndouble size: %zu", sizeof(number3)); //8
 
 
     return 0;
