@@ -46,5 +46,38 @@ printf("\n%d", value7);// 0=> false
 bool value8 = (8 <= 10);
 printf("\n%d", value8);// 1=> true
 
- // to run => gcc Boolean.c -o Boolean && Boolean.exe
+//examples
+int num1 = 9;
+int num2 = 2;
+
+bool value9 = num1 > num2;
+printf("\n%d", value9);// 1=> true
+bool value10 = num1 < 3;
+printf("\n%d", value10);// 0=> false
+
+//other logical opeartor
+
+/*
+&& and
+|| or
+! not
+*/
+int age = 18;
+double height = 5.25;
+ //to use AND operator
+bool result = (age >= 23) && (height < 2.45);
+printf("\n%d", result);// 0=>  false
+
+//to use OR operator
+bool result1 = (age >= 18) || (height < 2.45);
+printf("\n%d", result1);// 1=>  true
+
+// to use NOT operator
+bool result3 = !(age >= 23);
+printf("\n%d", result3);// 1=>  true
+
+
+
+
+// to run => gcc Boolean.c -o Boolean && Boolean.exe
 }
