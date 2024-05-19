@@ -31,4 +31,4 @@ else if(operator == '*'){
 
         return 0;
 
-}// to run =>  gcc Calculator.c -o Calculator && Calculator.exe
+}// to run =>  gcc Project_2.c -oProject_2r && Project_2.exe

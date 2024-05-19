@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Voting system
 int main() {
     int age;
     printf("Enter any age: ");
@@ -13,4 +13,4 @@ int main() {
 
 
 
-}//to run => gcc Voting.c -o Voting && Voting.exe
+}//to run => gcc Project_1.c -o Project_1 && Project_1.exe
