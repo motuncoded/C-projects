@@ -16,7 +16,7 @@
     printf("\nThe Addition of %d and %d is %d", num_1, num_2, add);
   }
 
-  int calculateSum(int num_1, int num_2); // function prototype
+int calculateSum(int num_1, int num_2); // function prototype
   //  function with return types
 int calculateMultiply(int number_1, int number_2) {
     int multiply = number_1 * number_2;

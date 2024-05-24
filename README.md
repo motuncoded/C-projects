@@ -1,15 +1,15 @@
 # C projects
 This is the list of concept to learn in C language
 
-### Table of contents
- 1. Hello world
- 2. Variable ant print output
- 3. Comments
- 4. Data types
- 5. Operators
- 6. Conditional statements
- 7. Loops
- 8. Functions
+### Table of contents 📝
+ 1. Hello world ✅
+ 2. Variable ant print output ✔️
+ 3. Comments ✔️
+ 4. Data types ✍️
+ 5. Operators 🖍️
+ 6. Conditional statements 🖍️
+ 7. Loops 🖊️
+ 8. Functions ✏️
  9. Arrays
  10. Pointers
  11. Structures
