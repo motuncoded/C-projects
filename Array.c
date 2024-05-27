@@ -3,6 +3,7 @@
 int main(){
 
 // datatype arrayName[arraySize] = {....}
+//An array stores multiple element together
 
 //to create array
 int age[5] = {21, 34, 28, 32, 45};
