@@ -1,4 +1,4 @@
-# C projects
+# C Learning 
 
 This is the list of concept to learn in C language
 
