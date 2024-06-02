@@ -2,11 +2,8 @@
 Write a C program that takes an integer as input from the user 
 and checks if the number is prime. If the number is prime, 
 the program should print "The number is prime."
- Otherwise, it should print "The number is not prime.
-
-
-
-"*/
+ Otherwise, it should print "The number is not prime."
+ */
 
 #include <stdio.h>
 
@@ -35,3 +32,4 @@ int main(){
         );
 
 } // to run =>  gcc Day2.c -o Day2 && Day2.exe
+
