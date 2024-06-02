@@ -1,0 +1,5 @@
+/*
+Write a C program that takes a string and a character as input from the user 
+and calculates the frequency of the character in the string. 
+The program should print the frequency to the console.
+*/

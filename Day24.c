@@ -1,0 +1,5 @@
+/*
+Write a C program that implements a simple hash table. 
+The program should support insert and search operations. 
+The program should also print the contents of the hash table after each operation.
+*/

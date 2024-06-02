@@ -1,0 +1,5 @@
+/*
+Write a C program that implements a simple stack using an array. The program should support push and pop operations. The program should also print the contents of the stack after each operation.
+
+
+*/

@@ -1,0 +1,6 @@
+/*
+Write a C program that takes an array of integers as input 
+from the user and finds the second largest element in the array. 
+The program should print the second largest element to the console.
+
+*/

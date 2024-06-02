@@ -1,0 +1,4 @@
+/*
+Write a C program that takes an integer as input from the user 
+and calculates its prime factors. The prime factors of a number are the prime numbers that divide the number without leaving a remainder. 
+The program should print the prime factors to the console.*/

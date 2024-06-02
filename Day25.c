@@ -1,0 +1,6 @@
+/*
+Write a C program that takes an array of integers as input from the user 
+and finds the maximum and minimum elements in the array. 
+The program should print the maximum and minimum elements to the console.
+
+*/
