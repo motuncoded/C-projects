@@ -1,0 +1,4 @@
+/*Write a C program that takes two strings as input from the user and 
+finds the longest common substring of the two strings.
+The program should print the longest common substring to the console
+*/

@@ -1,0 +1,6 @@
+/*
+Write a C program that takes an array of integers as input from the user 
+and finds the third largest element in the array. 
+The program should print the third largest element to the console.
+
+*/

@@ -1,0 +1,5 @@
+/*Write a C program that takes an integer as 
+input from the user and calculates the sum of its digits. 
+The program should print the sum to the console.
+
+*/

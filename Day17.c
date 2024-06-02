@@ -1,0 +1,4 @@
+/*Write a C program that implements a simple linked list.
+The program should support insert and delete operations.
+The program should also print the contents of the linked list after each operation.
+*/

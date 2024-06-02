@@ -1,0 +1,7 @@
+/*
+
+
+Write a C program that takes an integer as input from the user and calculates its reverse. 
+The reverse of a number is obtained by reversing the order of its digits. 
+The program should print the reverse to the console.
+*/

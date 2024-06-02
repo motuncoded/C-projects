@@ -1,5 +1,9 @@
 {
   "files.associations": {
+    "PointerArray.C": "cpp",
+    "Project_16.C": "cpp",
+    "Day_1.C": "cpp",
+    "Day1.C": "cpp"
     "PointerArray.C": "cpp"
   }
 }
