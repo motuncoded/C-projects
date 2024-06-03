@@ -9,6 +9,16 @@ the program should print "The number is prime."
 
 
 
+ Otherwise, it should print "The number is not prime.
+
+
+
+"*/
+
+#include <stdio.h>
+
+
+
 int is_prime(int num){
   if(num <= 1){
     return 0;
