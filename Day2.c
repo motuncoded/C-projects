@@ -35,3 +35,4 @@ int main(){
         );
 
 } // to run =>  gcc Day2.c -o Day2 && Day2.exe
+
