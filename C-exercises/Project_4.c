@@ -34,6 +34,9 @@ default:
 }
 
 printf("Result = %d", result);
+//malloc => memory allocation
+//calloc => contiguous allocation
+
 
 
 
