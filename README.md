@@ -12,7 +12,7 @@ This is the list of concept to learn in C language
 6.  Conditional statements 🖍️
 7.  Loops 🖊️
 8.  Functions ✏️
-9.  Arrays
+9.  Arrays ✔️
 10. Pointers
 11. Structures
 12. Unions
