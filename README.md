@@ -5,7 +5,7 @@ This is the list of concept to learn in C language
 ### Table of contents 📝
 
 1.  Hello world ✅
-2.  Variable ant print output ✔️
+2.  Variable and print output ✔️
 3.  Comments ✔️
 4.  Data types ✍️
 5.  Operators 🖍️
